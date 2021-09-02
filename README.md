@@ -10,3 +10,5 @@
 - ⚡ Fun fact: well im not into developing yet learning some basic just want to get comfortable with git. im excited and working hard.
 
 
+<img src ="https://github-readme-stats.vercel.app/api?username=Harshaldotjava&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
