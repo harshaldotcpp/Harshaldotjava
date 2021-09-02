@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java and Android Development
 - 👯 I’m looking to collaborate with Friendly Developers 
 - 🤔 I’m looking for help with Java because im currently learning
-- 💬 Ask me about dont ask java i guess
+- 💬 Ask me about ask java i guess
 - 📫 How to reach me: harshalmahapure44@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: well im not into developing yet learning some basic just want to get comfortable with git. im excited and working hard.
