@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Collage projects and Assigments
 - 🌱 I’m currently learning java and Android Development
-- 👯 I’m looking to collaborate on Friendly Developers 
+- 👯 I’m looking to collaborate with Friendly Developers 
 - 🤔 I’m looking for help with Java because im currently learning
 - 💬 Ask me about dont ask me anything for now
 - 📫 How to reach me: harshalmahapure44@gmail.com
