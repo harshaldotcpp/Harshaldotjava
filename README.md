@@ -1,7 +1,7 @@
 ### Hello I'm Harshal 👋
 
 - 🔭 I’m currently working on Collage projects and Assigments
-- 🌱 I’m currently learning java and Android Development
+- 🌱 I’m currently learning java,flutter and Android Development
 - 👯 I’m looking to collaborate with Friendly Developers 
 - 🤔 I’m looking for help with Java because im currently learning
 - 💬 Ask me about ask java i guess
